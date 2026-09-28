@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Paper 1 archival record."
+title: "Project M/S: Separating AI Agent Recommendations from Governance Outcomes in Cybersecurity"
+type: software
+authors:
+  - family-names: "Chavez"
+    given-names: "Peter P."
+    orcid: "https://orcid.org/0009-0006-7318-6995"
+version: "1.0.0"
+date-released: "2026-09-28"
+doi: "10.5281/zenodo.23003470"
+keywords:
+  - agentic cybersecurity
+  - AI governance
+  - authorization
+  - Jev
+  - counterfactual replay
+  - security evaluation
+  - human oversight
+repository-code: "https://github.com/ArcMichael-Research/project-ms-paper1"
