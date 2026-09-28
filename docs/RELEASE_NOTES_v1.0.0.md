@@ -19,6 +19,7 @@ The release presents a preliminary applied synthetic case study. It does not cla
 ## Literature-positioning update
 The final manuscript incorporates close prior art identified before release, including work on external governance, bounded autonomy, fixed-proposal governance comparisons, governance-evidence sufficiency, Jev-based judging, Jev in cybersecurity, and prompt injection against Jev. These additions narrow the novelty claim but do not alter the experimental results.
 
+
 ## Licensing
 
 Research content is CC BY 4.0. Source code, runners, and dashboard software are Apache-2.0. See `LICENSE.md`.
