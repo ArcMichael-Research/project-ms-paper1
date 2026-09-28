@@ -13,25 +13,105 @@
     "software": "Apache-2.0"
   },
   "files": [
-    {"path":"CITATION.cff","bytes":625,"sha256":"d11d23364e71ddade380b6de1058b6c580efed82556de881f28041033db0b5c6"},
-    {"path":"LICENSE-APACHE-2.0.txt","bytes":11312,"sha256":"7ce14370c20f54c4271ffd9b02a092d7737c964734bd35b8deb3de2d52c9ba83"},
-    {"path":"LICENSE.md","bytes":1088,"sha256":"ef2628f77f7844538b5fe06f770c14794d2148ab208c6f233435f2c7d779c972"},
-    {"path":"README.md","bytes":3995,"sha256":"34a82f3c294821c095ddefedad3182305397681408676c9b836d7390c0bb2fba"},
-    {"path":"dashboard/MS_Dashboard_Paper1_v1.6_Metadata_Reconciled_PUBLIC.zip","bytes":120847,"sha256":"ba67eec6deed57dee2b3ea1520a0f2aff9e666dcc1c8e8c757c7bd84d7c72a39"},
-    {"path":"docs/AI_ASSISTANCE_DISCLOSURE.md","bytes":682,"sha256":"6067b9940d81a85e90197473a475da38f4fcf26378278976a6ba26752e79ee8f"},
-    {"path":"docs/EXP002_PROVENANCE_LIMITATION.md","bytes":669,"sha256":"a1c8265956b2384e1e76be9d96867a36dd950708e2c1ac4dcc6baba1f7c6c8a7"},
-    {"path":"docs/RELEASE_NOTES_v1.0.0.md","bytes":1428,"sha256":"91ccc099974439c2bb4737917e6ee8d63672323e4367c5e62b9fc843039b6283"},
-    {"path":"docs/REPRODUCIBILITY.md","bytes":2048,"sha256":"01deb3fd0be7beea4e21147d09721e5aa6259253af918d83fe205da943c33dc6"},
-    {"path":"docs/ZENODO_METADATA_READY.md","bytes":1963,"sha256":"b350b1b4f140a39bfd913e73e8ec1bd96d7bf6eaa0416acd79948f9a1f8bb983"},
-    {"path":"experiments/EXP-001/Project-MS-JEV-Experiment-01.zip","bytes":10947,"sha256":"3bd796ff0f113959f0fdceae05b41559788aff030a1b26705502a3b50e0283ae"},
-    {"path":"experiments/EXP-002/MS-JEV-EXP-002-Evidence.zip","bytes":87260,"sha256":"957e70c15ec3954e04ade826d05ce3bd7d192d6f7267bad77801ad6cc1f833c7"},
-    {"path":"experiments/EXP-002/experiment-002_FINAL_CASE012_RETRY_STATE.mjs","bytes":13222,"sha256":"230b30e8aa1878c6b7db2beb4758a2dc5f58a0f87621ba9038a013e91cdc6ed8"},
-    {"path":"experiments/EXP-003/EXP003_Case_Research_Rationale.md","bytes":3358,"sha256":"68451099997e5388e71a5936c67e4cadc459e2176f95a543cf9a9a4c9295d455"},
-    {"path":"experiments/EXP-003/EXP003_ENVIRONMENT_VERIFICATION.md","bytes":1057,"sha256":"aa6e44bb3ee2f9161e5421572ff0e43e476285814bbc5f6975f3e98c7405f11e"},
-    {"path":"experiments/EXP-003/EXP003_Preflight_Checklist.md","bytes":3465,"sha256":"9a8b320c7b265a0c2070cc5b6a0c13d754f9ceac5353f49ce5e262c6d3ff11a1"},
-    {"path":"experiments/EXP-003/MS-JEV-EXP-003-Paper1-Evidence.zip","bytes":35996,"sha256":"545e7453c04d3ab07a3760019b40f998b93f7d879fb9c70611c76731264c6d78"},
-    {"path":"experiments/EXP-003/experiment-003-five-cases-refined.mjs","bytes":27416,"sha256":"a1f2f9283c4a4df70c7dd4ac753024f7e2b04ae50a4d8736159eeb1509422901"},
-    {"path":"figures/M_S_Phase2_Interactive_Decision_Assurance_Framework.png","bytes":1727790,"sha256":"fb4c35d66bae92a7071ea4dae862667dc97f6254e0ee5eb4d01c63132ec77322"},
-    {"path":"manuscript/Project_MS_Paper_1_Final.pdf","bytes":658482,"sha256":"1144cc7c6ab9a55066afbca488b283a243d279668c06a8d0661722384b29fb01"}
+    {
+      "path": "CITATION.cff",
+      "bytes": 625,
+      "sha256": "d11d23364e71ddade380b6de1058b6c580efed82556de881f28041033db0b5c6"
+    },
+    {
+      "path": "LICENSE-APACHE-2.0.txt",
+      "bytes": 11312,
+      "sha256": "7ce14370c20f54c4271ffd9b02a092d7737c964734bd35b8deb3de2d52c9ba83"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 1088,
+      "sha256": "ef2628f77f7844538b5fe06f770c14794d2148ab208c6f233435f2c7d779c972"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3995,
+      "sha256": "34a82f3c294821c095ddefedad3182305397681408676c9b836d7390c0bb2fba"
+    },
+    {
+      "path": "dashboard/MS_Dashboard_Paper1_v1.6_Metadata_Reconciled_PUBLIC.zip",
+      "bytes": 120847,
+      "sha256": "ba67eec6deed57dee2b3ea1520a0f2aff9e666dcc1c8e8c757c7bd84d7c72a39"
+    },
+    {
+      "path": "docs/AI_ASSISTANCE_DISCLOSURE.md",
+      "bytes": 682,
+      "sha256": "6067b9940d81a85e90197473a475da38f4fcf26378278976a6ba26752e79ee8f"
+    },
+    {
+      "path": "docs/EXP002_PROVENANCE_LIMITATION.md",
+      "bytes": 669,
+      "sha256": "a1c8265956b2384e1e76be9d96867a36dd950708e2c1ac4dcc6baba1f7c6c8a7"
+    },
+    {
+      "path": "docs/RELEASE_NOTES_v1.0.0.md",
+      "bytes": 1428,
+      "sha256": "91ccc099974439c2bb4737917e6ee8d63672323e4367c5e62b9fc843039b6283"
+    },
+    {
+      "path": "docs/REPRODUCIBILITY.md",
+      "bytes": 2048,
+      "sha256": "01deb3fd0be7beea4e21147d09721e5aa6259253af918d83fe205da943c33dc6"
+    },
+    {
+      "path": "docs/ZENODO_METADATA_READY.md",
+      "bytes": 1963,
+      "sha256": "b350b1b4f140a39bfd913e73e8ec1bd96d7bf6eaa0416acd79948f9a1f8bb983"
+    },
+    {
+      "path": "experiments/EXP-001/Project-MS-JEV-Experiment-01.zip",
+      "bytes": 10947,
+      "sha256": "3bd796ff0f113959f0fdceae05b41559788aff030a1b26705502a3b50e0283ae"
+    },
+    {
+      "path": "experiments/EXP-002/MS-JEV-EXP-002-Evidence.zip",
+      "bytes": 87260,
+      "sha256": "957e70c15ec3954e04ade826d05ce3bd7d192d6f7267bad77801ad6cc1f833c7"
+    },
+    {
+      "path": "experiments/EXP-002/experiment-002_FINAL_CASE012_RETRY_STATE.mjs",
+      "bytes": 13222,
+      "sha256": "230b30e8aa1878c6b7db2beb4758a2dc5f58a0f87621ba9038a013e91cdc6ed8"
+    },
+    {
+      "path": "experiments/EXP-003/EXP003_Case_Research_Rationale.md",
+      "bytes": 3358,
+      "sha256": "68451099997e5388e71a5936c67e4cadc459e2176f95a543cf9a9a4c9295d455"
+    },
+    {
+      "path": "experiments/EXP-003/EXP003_ENVIRONMENT_VERIFICATION.md",
+      "bytes": 1057,
+      "sha256": "aa6e44bb3ee2f9161e5421572ff0e43e476285814bbc5f6975f3e98c7405f11e"
+    },
+    {
+      "path": "experiments/EXP-003/EXP003_Preflight_Checklist.md",
+      "bytes": 3465,
+      "sha256": "9a8b320c7b265a0c2070cc5b6a0c13d754f9ceac5353f49ce5e262c6d3ff11a1"
+    },
+    {
+      "path": "experiments/EXP-003/MS-JEV-EXP-003-Paper1-Evidence.zip",
+      "bytes": 35996,
+      "sha256": "545e7453c04d3ab07a3760019b40f998b93f7d879fb9c70611c76731264c6d78"
+    },
+    {
+      "path": "experiments/EXP-003/experiment-003-five-cases-refined.mjs",
+      "bytes": 27416,
+      "sha256": "a1f2f9283c4a4df70c7dd4ac753024f7e2b04ae50a4d8736159eeb1509422901"
+    },
+    {
+      "path": "figures/M_S_Phase2_Interactive_Decision_Assurance_Framework.png",
+      "bytes": 1727790,
+      "sha256": "fb4c35d66bae92a7071ea4dae862667dc97f6254e0ee5eb4d01c63132ec77322"
+    },
+    {
+      "path": "manuscript/Project_MS_Paper_1_Final.pdf",
+      "bytes": 658482,
+      "sha256": "1144cc7c6ab9a55066afbca488b283a243d279668c06a8d0661722384b29fb01"
+    }
   ]
 }
