@@ -21,7 +21,7 @@ The contribution is intentionally narrow. The repository does **not** claim inve
 - Offline dashboard v1.6 for evidence inspection.
 - Explicit limitations covering synthetic case construction, sample size, model/version uncertainty, source provenance, and the fact that evidence verification is not independently isolated in EXP-003.
 
-## Repository structure
+## Release package structure
 
 - `manuscript/` - canonical Paper 1 PDF.
 - `experiments/` - frozen experiment evidence and recovered runners.
@@ -45,8 +45,10 @@ The experiments are synthetic and small. They do not establish real-world model 
 Phase 2 proposes a SOC-oriented decision-assurance framework that separates proposal, validation, authorization, human review, and execution. It is future work and is not implemented or validated in Paper 1.
 
 ## Citation
+See `CITATION.cff`. Paper 1 was published on 28 September 2026 at https://doi.org/10.5281/zenodo.23003470.
 
-See `CITATION.cff`. The archival release is reserved at DOI `10.5281/zenodo.23003470` and becomes publicly resolvable when the Zenodo record is published.
+A correction dated 10 October 2026 clarifies author contribution and AI assistance. Research methods, experimental evidence, results, and conclusions are unchanged. Download the corrected PDF and dated correction ZIP from the GitHub release or Zenodo. The v1.0.0 tag and GitHub-generated source archives preserve the original repository snapshot.
+
 
 ## AI assistance
 
